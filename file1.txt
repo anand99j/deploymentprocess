@@ -1,0 +1,15 @@
+git -version
+
+git --version        ----->know the version of git
+
+git init my-first-repo   -------->create first local repository
+
+notepad file1.txt -------->create notepad text file1 via cmd
+
+notepad file2.txt     ----->create notepad text file2 via cmd
+
+git status         -------->status of repository files
+
+git add file1.txt (or) git add.  --->add file into the stage
+
+git rm --cached file1.txt  ----->for unstage file
