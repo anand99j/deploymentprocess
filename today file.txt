@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is Testing for source Tree and Github
+=======
+This is Testing for source Tree and Github
+second time updated
+Third time updated
+>>>>>>> e0ed696b9ebe778b667233225d6794d6de7b2438
