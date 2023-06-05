@@ -1,0 +1,7 @@
+diff a/today file.txt b/today file.txt	(rejected hunks)
+@@ -1 +0,2 @@
+-This is Testing for source Tree and Github
+\ No newline at end of file
++This is Testing for source Tree and Github
++second time updated
+\ No newline at end of file
